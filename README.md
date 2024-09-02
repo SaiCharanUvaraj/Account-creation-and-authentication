@@ -1,3 +1,7 @@
+
+Note:-----
+Create an account in signup with dummy username and password and check in the signin for authentication
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
